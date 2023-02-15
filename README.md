@@ -1,5 +1,4 @@
 ![](WifiSteal.jpg)
-<h1 align="center">ba</h1>
 
 
 # WifiStealer
