@@ -2,15 +2,16 @@
 
 
 # WifiStealer
-WifiStealer is a script to capture wifi password from victim, is easy to use and easy to get trick
+WifiStealer is a script to capture wifi password from s0mebody.
 
 # ATTENTION
-WifiStealer will work on windows (temp)
+Please use this only on you i am not responsible for you action
+WifiStealer will work on windows (temp)/
 
 
 # How it Works
 
-When victim open the script will send captured data to the server. When attacker open the server
+When s0mebody open the script will send captured data to the server. 
 <h1 align="center">Work on</h1>
 
 - Windows 
